@@ -1,4 +1,4 @@
 ### Olá 👋
 
-📍 Goiânia-GO.
-🎓 Cursando Ciência da Computação - UFG.
+<p>📍 Goiânia-GO.</p>
+<p>🎓 Cursando Ciência da Computação - UFG.</p>
